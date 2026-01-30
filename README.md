@@ -1,0 +1,1 @@
+This is a repository for studying a lecture '파이썬 무료강의 2시간 완성 - (업무자동화 편) - 이제는 적당히(?) 일하세요' by 메타코드M. The video is in youtube. If you want to see original video, [Click here](https://www.youtube.com/watch?v=W3vzf_Pz-VI).
